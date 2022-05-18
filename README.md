@@ -1,6 +1,6 @@
 # vite-todo
 Vue3黑马ToDo案例(Vite+Bootstrap)    
-![](cwtodo/src/assets/demo.png)
+![demo](https://raw.githubusercontent.com/ciweio/vite-todo/main/cwtodo/src/assets/demo.png)
 ### use these to start:
 1.
     ```
